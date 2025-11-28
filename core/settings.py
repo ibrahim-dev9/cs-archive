@@ -12,7 +12,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-f5t8u06umgv36ci7bza1c%2ha&gx*o+j4jkkjx$-c=tlzvp7%$'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['cs.saibra-iq.com', '127.0.0.1', 'localhost']
 
