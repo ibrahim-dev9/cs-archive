@@ -15,7 +15,7 @@ media/
 !media/.gitkeep
 
 # Static (collected static files)
-staticfiles/
+# staticfiles/
 
 # Environment variables & virtualenv
 .env
